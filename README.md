@@ -1,4 +1,4 @@
-# Real-Time Facial Expression Recognition
+# Facial Expression Recognition Using EfficientNetB7
 
 ## Overview
 This project implements real-time facial expression recognition using deep learning techniques. The code provided here is adapted from the article [Real-Time Face Expression Recognition](https://medium.com/@dana.fatadilla123/real-time-face-expression-recognition-b2214b6cdfb9).
